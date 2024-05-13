@@ -19,6 +19,7 @@ Sou Estudante de programação com foco no Back-End.
 </div>
 
 ## Status
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=JulioCesarCardosoDEV&show_icons=true&theme=blue_navy"
@@ -31,6 +32,8 @@ Sou Estudante de programação com foco no Back-End.
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JulioCesarCardosoDEV&show_icons=true" />
 </picture>
 
+<span style="display: inline-block"></span>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarCardosoDEV&layout=compact&theme=blue_navy"
@@ -40,5 +43,5 @@ Sou Estudante de programação com foco no Back-End.
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarCardosoDEV&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarCardosoDEV&layout=compact" />
+  <img height="129em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarCardosoDEV&layout=compact" />
 </picture>

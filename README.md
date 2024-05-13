@@ -40,5 +40,5 @@ Sou Estudante de programação com foco no Back-End.
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarCardosoDEV&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="129em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarCardosoDEV&layout=compact" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarCardosoDEV&layout=compact" />
 </picture>

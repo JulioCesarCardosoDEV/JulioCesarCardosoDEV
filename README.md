@@ -1,5 +1,5 @@
 ## Oi pessoal 👋
-Sou Estudante de programação com foco no Back-End.
+Estudante de programação com foco no Back-End.
 <br>
 • 📍 Localização: Praia Grande | São Paulo.
 <br>
